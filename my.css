@@ -1,0 +1,23 @@
+.bc h2, .bc p{
+    color: hotpink;
+    margin: 10px 0;
+    text-align: center;
+}
+.bc{
+    float: left;
+    background: chartreuse;
+    margin: 5%;
+    width: 40%;
+}
+.conteiner {
+    
+    width: 500px;
+    height: 200px;
+    margin: 100px auto;
+    background-color: crimson;
+}
+.box{
+    
+    float: left;
+    margin: 10px;
+}
